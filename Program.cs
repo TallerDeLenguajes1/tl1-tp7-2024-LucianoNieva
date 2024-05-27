@@ -103,7 +103,7 @@ class Program
         empleados[1] = new Empleados("María", "García", new DateTime(1990, 10, 10), 'C', new DateTime(2015, 7, 20), 55000.00, Cargos.Administrativo);
         empleados[2] = new Empleados("Pedro", "López", new DateTime(1980, 3, 8), 'C', new DateTime(2005, 9, 10), 60000.00, Cargos.Especialista);
 
-
+        
         double montoSalarioTotal = 0;
 
         for (int i = 0; i < empleados.Length; i++)
@@ -112,7 +112,17 @@ class Program
         }
         Console.WriteLine($"El salario total de los tres es {montoSalarioTotal}");
 
+        double proxAjub = empleados[0].tiempoJubilacion();
 
+        for (int j = 0; j < empleados.Length; j++)
+        {
+            if (empleados[j].tiempoJubilacion() < proxAjub)
+            {
+                proxAjub = empleados[j].tiempoJubilacion();
+            }
+        }
+        Console.WriteLine("El empleado mas proximo a jubilarse es " + proxAjub);
+        
     }
 }
 

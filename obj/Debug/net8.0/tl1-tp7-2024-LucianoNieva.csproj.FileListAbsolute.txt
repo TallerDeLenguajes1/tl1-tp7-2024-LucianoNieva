@@ -1,0 +1,15 @@
+D:\Facultad\Taller\TrabajosPracticos\tl1-tp7-2024-LucianoNieva\bin\Debug\net8.0\tl1-tp7-2024-LucianoNieva.exe
+d:\Facultad\Taller\TrabajosPracticos\tl1-tp7-2024-LucianoNieva\bin\Debug\net8.0\tl1-tp7-2024-LucianoNieva.deps.json
+d:\Facultad\Taller\TrabajosPracticos\tl1-tp7-2024-LucianoNieva\bin\Debug\net8.0\tl1-tp7-2024-LucianoNieva.runtimeconfig.json
+D:\Facultad\Taller\TrabajosPracticos\tl1-tp7-2024-LucianoNieva\bin\Debug\net8.0\tl1-tp7-2024-LucianoNieva.dll
+D:\Facultad\Taller\TrabajosPracticos\tl1-tp7-2024-LucianoNieva\bin\Debug\net8.0\tl1-tp7-2024-LucianoNieva.pdb
+D:\Facultad\Taller\TrabajosPracticos\tl1-tp7-2024-LucianoNieva\obj\Debug\net8.0\tl1-tp7-2024-LucianoNieva.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\Taller\TrabajosPracticos\tl1-tp7-2024-LucianoNieva\obj\Debug\net8.0\tl1-tp7-2024-LucianoNieva.AssemblyInfoInputs.cache
+D:\Facultad\Taller\TrabajosPracticos\tl1-tp7-2024-LucianoNieva\obj\Debug\net8.0\tl1-tp7-2024-LucianoNieva.AssemblyInfo.cs
+D:\Facultad\Taller\TrabajosPracticos\tl1-tp7-2024-LucianoNieva\obj\Debug\net8.0\tl1-tp7-2024-LucianoNieva.csproj.CoreCompileInputs.cache
+D:\Facultad\Taller\TrabajosPracticos\tl1-tp7-2024-LucianoNieva\obj\Debug\net8.0\tl1-tp7-2024-LucianoNieva.sourcelink.json
+D:\Facultad\Taller\TrabajosPracticos\tl1-tp7-2024-LucianoNieva\obj\Debug\net8.0\tl1-tp7-2024-LucianoNieva.dll
+D:\Facultad\Taller\TrabajosPracticos\tl1-tp7-2024-LucianoNieva\obj\Debug\net8.0\refint\tl1-tp7-2024-LucianoNieva.dll
+D:\Facultad\Taller\TrabajosPracticos\tl1-tp7-2024-LucianoNieva\obj\Debug\net8.0\tl1-tp7-2024-LucianoNieva.pdb
+d:\Facultad\Taller\TrabajosPracticos\tl1-tp7-2024-LucianoNieva\obj\Debug\net8.0\tl1-tp7-2024-LucianoNieva.genruntimeconfig.cache
+d:\Facultad\Taller\TrabajosPracticos\tl1-tp7-2024-LucianoNieva\obj\Debug\net8.0\ref\tl1-tp7-2024-LucianoNieva.dll
